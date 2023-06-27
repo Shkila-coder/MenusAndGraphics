@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\the1stC#\BaluemcaANDbombim\bin\Debug\BaluemcaANDbombim.exe.config
+C:\Users\Пользователь\source\repos\the1stC#\BaluemcaANDbombim\bin\Debug\BaluemcaANDbombim.exe
+C:\Users\Пользователь\source\repos\the1stC#\BaluemcaANDbombim\bin\Debug\BaluemcaANDbombim.pdb
+C:\Users\Пользователь\source\repos\the1stC#\BaluemcaANDbombim\obj\Debug\BaluemcaANDbombim.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\the1stC#\BaluemcaANDbombim\obj\Debug\BaluemcaANDbombim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\the1stC#\BaluemcaANDbombim\obj\Debug\BaluemcaANDbombim.Form1.resources
+C:\Users\Пользователь\source\repos\the1stC#\BaluemcaANDbombim\obj\Debug\BaluemcaANDbombim.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\the1stC#\BaluemcaANDbombim\obj\Debug\BaluemcaANDbombim.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\the1stC#\BaluemcaANDbombim\obj\Debug\BaluemcaANDbombim.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\the1stC#\BaluemcaANDbombim\obj\Debug\BaluemcaANDbombim.exe
+C:\Users\Пользователь\source\repos\the1stC#\BaluemcaANDbombim\obj\Debug\BaluemcaANDbombim.pdb
