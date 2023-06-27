@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\the1stC#\Delaem_menu\bin\Debug\Delaem_menu.exe.config
+C:\Users\Пользователь\source\repos\the1stC#\Delaem_menu\bin\Debug\Delaem_menu.exe
+C:\Users\Пользователь\source\repos\the1stC#\Delaem_menu\bin\Debug\Delaem_menu.pdb
+C:\Users\Пользователь\source\repos\the1stC#\Delaem_menu\obj\Debug\Delaem_menu.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\the1stC#\Delaem_menu\obj\Debug\Delaem_menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\the1stC#\Delaem_menu\obj\Debug\Delaem_menu.Form1.resources
+C:\Users\Пользователь\source\repos\the1stC#\Delaem_menu\obj\Debug\Delaem_menu.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\the1stC#\Delaem_menu\obj\Debug\Delaem_menu.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\the1stC#\Delaem_menu\obj\Debug\Delaem_menu.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\the1stC#\Delaem_menu\obj\Debug\Delaem_menu.exe
+C:\Users\Пользователь\source\repos\the1stC#\Delaem_menu\obj\Debug\Delaem_menu.pdb
