@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\the1stC#\Poprobyem_Porisovat\obj\Debug\Poprobyem_Porisovat.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\the1stC#\Poprobyem_Porisovat\obj\Debug\Poprobyem_Porisovat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\the1stC#\Poprobyem_Porisovat\obj\Debug\Poprobyem_Porisovat.frmMain.resources
+C:\Users\Пользователь\source\repos\the1stC#\Poprobyem_Porisovat\obj\Debug\Poprobyem_Porisovat.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\the1stC#\Poprobyem_Porisovat\obj\Debug\Poprobyem_Porisovat.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\the1stC#\Poprobyem_Porisovat\obj\Debug\Poprobyem_Porisovat.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\the1stC#\Poprobyem_Porisovat\bin\Debug\Poprobyem_Porisovat.exe.config
+C:\Users\Пользователь\source\repos\the1stC#\Poprobyem_Porisovat\bin\Debug\Poprobyem_Porisovat.exe
+C:\Users\Пользователь\source\repos\the1stC#\Poprobyem_Porisovat\bin\Debug\Poprobyem_Porisovat.pdb
+C:\Users\Пользователь\source\repos\the1stC#\Poprobyem_Porisovat\obj\Debug\Poprobyem_Porisovat.exe
+C:\Users\Пользователь\source\repos\the1stC#\Poprobyem_Porisovat\obj\Debug\Poprobyem_Porisovat.pdb
