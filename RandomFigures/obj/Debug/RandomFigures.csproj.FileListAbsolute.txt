@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\the1stC#\RandomFigures\bin\Debug\RandomFigures.exe.config
+C:\Users\Пользователь\source\repos\the1stC#\RandomFigures\bin\Debug\RandomFigures.exe
+C:\Users\Пользователь\source\repos\the1stC#\RandomFigures\bin\Debug\RandomFigures.pdb
+C:\Users\Пользователь\source\repos\the1stC#\RandomFigures\obj\Debug\RandomFigures.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\the1stC#\RandomFigures\obj\Debug\RandomFigures.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\the1stC#\RandomFigures\obj\Debug\RandomFigures.Form1.resources
+C:\Users\Пользователь\source\repos\the1stC#\RandomFigures\obj\Debug\RandomFigures.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\the1stC#\RandomFigures\obj\Debug\RandomFigures.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\the1stC#\RandomFigures\obj\Debug\RandomFigures.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\the1stC#\RandomFigures\obj\Debug\RandomFigures.exe
+C:\Users\Пользователь\source\repos\the1stC#\RandomFigures\obj\Debug\RandomFigures.pdb
